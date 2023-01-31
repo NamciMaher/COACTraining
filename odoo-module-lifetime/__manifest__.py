@@ -26,5 +26,11 @@
     ],
     'installable': True,
     'auto_install': False,
+    'installable': True,
+'data': [
+    'security/ir.model.access.csv',
+    'views/product_views.xml',
+],
 }
+
 
