@@ -22,7 +22,7 @@
         'security/security.xml',
     ],
     'web.assets_frontend': [
-            'plant_nursery/static/src/js/quote_ask.js',
+            'static/src/js/quote_ask.js',
         ],
     'demo': [
     ],
